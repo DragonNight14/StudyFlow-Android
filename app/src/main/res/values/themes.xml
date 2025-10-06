@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.StudyFlow" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/studyflow_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/studyflow_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/studyflow_on_primary_container</item>
+        <item name="colorSecondary">@color/studyflow_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/studyflow_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/studyflow_on_secondary_container</item>
+        <item name="colorTertiary">@color/studyflow_accent</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorError">@color/high_priority</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/on_surface_light</item>
+        <item name="colorBackground">@color/background_light</item>
+        <item name="colorOnBackground">@color/on_background_light</item>
+        <item name="android:statusBarColor">@color/studyflow_primary</item>
+        <item name="android:navigationBarColor">@color/surface_light</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

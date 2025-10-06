@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- StudyFlow Brand Colors -->
+    <color name="studyflow_primary">#667eea</color>
+    <color name="studyflow_secondary">#764ba2</color>
+    <color name="studyflow_accent">#f59e0b</color>
+    
+    <!-- Primary Container Colors -->
+    <color name="studyflow_primary_container">#e0e7ff</color>
+    <color name="studyflow_on_primary_container">#1e1b4b</color>
+    <color name="studyflow_secondary_container">#f3e8ff</color>
+    <color name="studyflow_on_secondary_container">#2d1b69</color>
+    
+    <!-- Priority Colors -->
+    <color name="high_priority">#ef4444</color>
+    <color name="medium_priority">#f59e0b</color>
+    <color name="low_priority">#10b981</color>
+    
+    <!-- Subject Colors -->
+    <color name="math_color">#3b82f6</color>
+    <color name="science_color">#10b981</color>
+    <color name="english_color">#8b5cf6</color>
+    <color name="history_color">#f59e0b</color>
+    <color name="art_color">#ec4899</color>
+    <color name="music_color">#06b6d4</color>
+    <color name="pe_color">#84cc16</color>
+    <color name="computer_science_color">#6366f1</color>
+    <color name="foreign_language_color">#f97316</color>
+    <color name="other_color">#6b7280</color>
+    
+    <!-- Light Theme Colors -->
+    <color name="background_light">#fffbfe</color>
+    <color name="surface_light">#fffbfe</color>
+    <color name="on_background_light">#1c1b1f</color>
+    <color name="on_surface_light">#1c1b1f</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="background_dark">#1c1b1f</color>
+    <color name="surface_dark">#2d2c30</color>
+    <color name="on_background_dark">#e6e1e5</color>
+    <color name="on_surface_dark">#e6e1e5</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Glass Effect Colors -->
+    <color name="glass_background">#80ffffff</color>
+    <color name="glass_border">#40ffffff</color>
+</resources>
